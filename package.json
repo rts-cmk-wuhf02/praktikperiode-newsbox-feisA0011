@@ -1,0 +1,35 @@
+{
+  "name": "praktikperiode-newsbox-feisa0011",
+  "version": "1.0.0",
+  "description": "Newsbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "gulp dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rts-cmk-wuhf02/praktikperiode-newsbox-feisA0011.git"
+  },
+  "author": "Feisal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rts-cmk-wuhf02/praktikperiode-newsbox-feisA0011/issues"
+  },
+  "homepage": "https://github.com/rts-cmk-wuhf02/praktikperiode-newsbox-feisA0011#readme",
+  "dependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "autoprefixer": "^9.7.6",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-connect": "^5.7.0",
+    "gulp-ejs": "^5.1.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^2.0.0",
+    "postcss-import": "^12.0.1",
+    "tailwindcss": "^1.2.0"
+  }
+}
